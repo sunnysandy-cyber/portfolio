@@ -1,4 +1,4 @@
-Assignment-1:(PERSONAL PORTFOLIO WEBSITE)
+project-1:(PERSONAL PORTFOLIO WEBSITE)
 <br>
  NAME: KADABOINA SANDEEP
                              
